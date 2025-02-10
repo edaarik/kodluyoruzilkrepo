@@ -21,3 +21,4 @@ pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+![Ekran görüntüsü 2025-02-10 222143](https://github.com/user-attachments/assets/24f62c5b-6406-4853-b134-e8005bbe1654)
